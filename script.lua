@@ -112,8 +112,7 @@ ServerTab:CreateButton({
 })
 
 -- [[ CRÉDITOS ]]
-CreditTab:CreateLabel("Script: FlokzyBR_Hub")
-CreditTab:CreateLabel("Dev: BlizTBr")
+CreditTab:CreateLabel("Script And Dev: FlokzyBR_Hub")
 CreditTab:CreateLabel("Status: God Mode Active")
 
 -- [[ FUNÇÕES DE SUPORTE (AIM/TARGET) ]]
